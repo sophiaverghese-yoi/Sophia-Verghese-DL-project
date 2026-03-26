@@ -37,7 +37,7 @@ Prepared a case study on UPI fraud and created a prevention checklist for online
 
 ## 🔗 Useful Links
 
-- Google Form Quiz: (paste your form link here)
+- Google Form Quiz: https://docs.google.com/forms/d/e/1FAIpQLSd4T2YXzy3HB2X6ktKIti72NClmXxESQOTL37K4Gar7LwFPUQ/viewform?usp=publish-editor
 
 ---
 
